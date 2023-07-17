@@ -21,5 +21,5 @@
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-Allan%20Willian-red?style=flat&logo=gmail)](mailto:allanti304@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allan%20Willian-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allan-willian-526a1a203/)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail)](mailto:allanti304@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/allan-willian-526a1a203/)
