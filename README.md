@@ -9,7 +9,7 @@
 - 🎓 Atualmente focado em HTML, CSS, JavaScript, React.js e React Native.
 - 🎨 Apaixonado pela combinação entre design e código.
 
-## Skills
+## Habilidades
 
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) 
